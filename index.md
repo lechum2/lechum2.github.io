@@ -1,87 +1,44 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sebastian Lech's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sebastian Lech
+Salesforce Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="lechum2@gmail.com">lechum2@gmail.com</a>
+| <a href="https://trailblazer.me/id/lechum2">Trailblazer</a>
+| <a href="https://www.linkedin.com/in/sebastian-lech-9054ab78">LinkedIn</a>
 </div>
 
+## Experience
 
-## Currently
+`2018 - 2022` Cloudity Sp z o. o.\
+Almost 5 years as a Salesforce Developer. Working with both small and large platform implementations. Custom solutions for multiple clouds and package development. Various integrations both inbound and outbound, also using Platform Events. Utilizing Heroku as en extension of platform capabilities.
 
-Standing on the shoulders of giants
+`2013 - 2018` Hypermedia Sp z o. o.\
+1 year as Technology Team Lead. Leading a 12-person team in creation and constant development of applications for one large client.\
+3 years as Senior .NET Developer. Creation an maintenance of web applications in .NET technologies. Supervising projects development. Introducing git control version system and training people to use it.
 
-### Specialized in
+`2009 - 2013` Transition Technologies S.A.\
+0,5 year of working in a project incorporating applications in different technologies: C#, C++, Visual Basic and Java.\
+2 years as a C# developer. Migrating and then developing application on .Net platform with a web interface.\
+1,5 year as a C++ developer. Maintenance and development of business application server and client application with interface in Qt.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Certification
+`Nov 2022` Salesforce Certified Platform Developer II
 
+`Oct 2018` Salesforce Certified Platform Developer I
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Sep 2020` MuleSoft Certified Developer - Level 1 (Mule 4) - expired
 
 
 ## Education
+`2013 – 2015` Warsaw School of Information Technology\
+Non-stationary course in Computer Science.	
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2003 – 2012` Warsaw University of Technology\
+Course in Computer Science on The Faculty of Mathematics and Information Science in English
 
 
 <!-- ### Footer
