@@ -84,8 +84,9 @@ p code {
 
 p img {
     position: absolute;
-    left: -28%;
-    width: 28%;
+    left: -33%;
+    height: 12em;
+    width: auto;
 }
 
 ul {
@@ -168,7 +169,7 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
+	margin-bottom: 1em;
 	position: relative;
 	left: 28%;
 	color: #ccc;
