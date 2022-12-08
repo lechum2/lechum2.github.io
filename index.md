@@ -7,7 +7,7 @@ title: Sebastian Lech's CV
 Salesforce Developer
 
 <div id="webaddress">
-  <a href="lechum2@gmail.com">lechum2@gmail.com</a>
+  <a href="mailto:lechum2@gmail.com">lechum2@gmail.com</a>
 | <a href="https://github.com/lechum2">GitHub</a>
 | <a href="https://trailblazer.me/id/lechum2">Trailblazer</a>
 | <a href="https://www.linkedin.com/in/sebastian-lech-9054ab78">LinkedIn</a>
