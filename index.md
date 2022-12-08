@@ -7,11 +7,19 @@ title: Sebastian Lech's CV
 Salesforce Developer
 
 <div id="webaddress">
+  <a href="tel:+48600000000">+48 600 000 000</a>
+</div>
+
+<div id="webaddress">
   <a href="mailto:lechum2@gmail.com">lechum2@gmail.com</a>
 | <a href="https://github.com/lechum2">GitHub</a>
 | <a href="https://trailblazer.me/id/lechum2">Trailblazer</a>
 | <a href="https://www.linkedin.com/in/sebastian-lech-9054ab78">LinkedIn</a>
 </div>
+
+I am en experienced developer with computer science education, background in C++, C# and web development.\
+Currently I am focusing on Salesforce technologies. Bringing the value to business without reinventing the wheel.\
+I am passionate about new technologies, security and linux.
 
 ## Experience
 
