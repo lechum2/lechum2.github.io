@@ -7,10 +7,6 @@ title: Sebastian Lech's CV
 Salesforce Developer
 
 <div id="webaddress">
-  <a href="tel:+48600000000">+48 600 000 000</a>
-</div>
-
-<div id="webaddress">
   <a href="mailto:lechum2@gmail.com">lechum2@gmail.com</a>
 | <a href="https://github.com/lechum2">GitHub</a>
 | <a href="https://trailblazer.me/id/lechum2">Trailblazer</a>
