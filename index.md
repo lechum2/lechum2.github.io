@@ -2,7 +2,7 @@
 layout: cv
 title: Sebastian Lech's CV
 ---
-![picture](/media/picture.jpg "picture")
+![picture](media/picture.jpg "picture")
 # Sebastian Lech
 Salesforce Developer
 
