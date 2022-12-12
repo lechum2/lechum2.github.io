@@ -79,12 +79,12 @@ code {
 
 p code {
 	position: absolute;
-	left: -13%;
+	left: -12%;
 }
 
 p img {
     position: absolute;
-    left: -33%;
+    left: -30%;
     height: 10em;
     width: auto;
 }
