@@ -160,19 +160,13 @@ h3 {
 }
 
 a {
-	color: inherit;
 	text-decoration:none
-}
-
-a:hover {
-	color:#39f
 }
 
 #webaddress {
 	margin-bottom: 1em;
 	position: relative;
 	left: 28%;
-	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
