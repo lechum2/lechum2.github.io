@@ -21,7 +21,7 @@ Native Polish, fluent English speaker. Currently residing in Warsaw Poland.
 
 ## Experience
 `2023` *BEC Poland*\
-Working as a Salesforce DevOps Engineer. Facilitating move to more refined deployment process for a large in-house Salesforce implementation. Increasing both quality and reliability.
+Working as a Salesforce DevOps Engineer. Facilitating move to more refined deployment process for a large in-house Salesforce implementation. Increasing both quality and reliability of the solution.
 
 `2018 - 2022` *Cloudity Sp z o. o.*\
 Almost 5 years as a **Salesforce Developer**. Working with both small and large platform implementations. Custom solutions for multiple clouds and package development. Various integrations both inbound and outbound, also using Platform Events. Utilizing Heroku as en extension of platform capabilities.
