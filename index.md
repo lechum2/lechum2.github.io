@@ -36,6 +36,8 @@ Almost 5 years as a **Salesforce Developer**. Working with both small and large 
 1,5 year as a **C++ developer**. Maintenance and development of business application server and client application with interface in Qt.
 
 ## Certification
+`May 2025` Salesforce Certified Development Lifecycle and Deployment Architect
+
 `Nov 2022` Salesforce Certified Platform Developer II
 
 `Oct 2018` Salesforce Certified Platform Developer I
